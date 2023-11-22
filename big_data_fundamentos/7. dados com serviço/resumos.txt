@@ -1,0 +1,3 @@
+DaaS: Data as a service
+
+vantagens: 1-monetização de dados, 2-redução de custos, 3-caminho mais rapido para a inovação, 4-agilidade na decisão baseada em dados, 5-menor risco no uso de dados, 6-criação de cultura data-driven

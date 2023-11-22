@@ -1,0 +1,11 @@
+Cluster é um computador de alta capacidade que fornece serviços, aplicações e banco de dados
+
+Cluster de computadores é um servidor com varias maquinas
+
+Balanceamento de carga: dividir as tarefas e hardware entre servidores
+
+Apache Hadoop serve para vc gerenciar as maquinas, fazendo um sistema distribuido, vantagem: vc consegue enviar e manipular arquivos em mais de uma maquina, fazendo assim uma especie de backup. 
+
+Com o HDFS (Hadoop Distributed File System) pode-se criar um Data Lake em cima do Cluster de computadores
+
+Processamento paralelo de Big Data. O Job Tracker verifica no Name Node onde estão os dados, recebendo assim o local do dado e enviando então o task tracker para cada um, e assim recebendo de volta o resultado

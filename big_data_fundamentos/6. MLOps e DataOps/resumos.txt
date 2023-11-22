@@ -1,0 +1,7 @@
+Pipeline: o workflow de todo o machine learning 
+
+MLOps: alimentação e treinamento de um algoritmo de ML
+
+Small Data: dados disponiveis na quantidade minima, e suficiente para a compreensão humana
+
+
